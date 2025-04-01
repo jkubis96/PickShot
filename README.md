@@ -1,5 +1,7 @@
 ### PickShot - Python package for CNN-based filtering of low-quality images from analysis
 
+<img src="https://img.shields.io/badge/python-3.12-blue" alt="Python Version"/>
+
 <br />
 
 
